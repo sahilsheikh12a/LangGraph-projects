@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+env/
+myenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.DS_Store
+.claude/
+.codex
+streamlit_app.log
